@@ -1,5 +1,5 @@
 import Blockchain from './components/Blockchain';
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import Nav from './components/Nav'
 
 function Mainn() {
